@@ -73,6 +73,8 @@ The server is made on `nodejs` (v12.4.0)
   * POST `/users/logout` - to logout.
 
   * POST `/tasks` - to create tasks.
+  
+  * POST `/users/me/avatar` - to create avatar.
 
   * POST `/users/logoutAll` - to logout from all sessions.
 
