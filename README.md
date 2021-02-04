@@ -86,7 +86,7 @@ The server is made on `nodejs` (v12.4.0)
 
   * PATCH `/tasks/<id of the task to be updates>` - to update task.
 
-  * DELETE `users/me` - to delete user.
+  * DELETE `/users/me` - to delete user.
 
   * DELETE `/tasks/<id of the task to be updates>` - to delete task.
 
